@@ -12,3 +12,4 @@ C:\Users\cabry\OneDrive - BYU-Idaho\cse310\WordGame\WordGame\obj\Debug\net8.0\re
 C:\Users\cabry\OneDrive - BYU-Idaho\cse310\WordGame\WordGame\obj\Debug\net8.0\WordGame.pdb
 C:\Users\cabry\OneDrive - BYU-Idaho\cse310\WordGame\WordGame\obj\Debug\net8.0\WordGame.genruntimeconfig.cache
 C:\Users\cabry\OneDrive - BYU-Idaho\cse310\WordGame\WordGame\obj\Debug\net8.0\ref\WordGame.dll
+C:\Users\cabry\OneDrive - BYU-Idaho\cse310\WordGame\WordGame\obj\Debug\net8.0\WordGame.sourcelink.json
